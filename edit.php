@@ -1,5 +1,6 @@
 <?php
 ///huy
+//them mot comment
 include_once './../../Helpers/ApiHelper.php';
 include_once './../../Models/Connection.php';
 function editExhibition() {
