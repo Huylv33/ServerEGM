@@ -1,7 +1,7 @@
 <?php
 include_once './../../Helpers/ApiHelper.php';
 include_once './../../Models/Connection.php';
-
+// insert
 function insertGuest() {
     $connection = new Connection();
     $con = $connection->getConnection();
